@@ -1,0 +1,1 @@
+export { HiBobError } from "./HiBobError";
